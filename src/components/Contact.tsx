@@ -90,10 +90,10 @@ const Contact = () => {
   ];
 
   const socialLinks = [
-  { name: "Instagram", url: "https://instagram.com/yourusername", icon: FaInstagram, color: "hover:text-pink-500" },
-  { name: "WhatsApp", url: "https://wa.me/0708167754", icon: FaWhatsapp, color: "hover:text-green-500" },
+  { name: "Instagram", url: "https://www.instagram.com/kkbresh?igsh=MTBoODUydjc5NjR3cw==", icon: FaInstagram, color: "hover:text-pink-500" },
+  { name: "WhatsApp", url: "https://wa.me/+254734550683", icon: FaWhatsapp, color: "hover:text-green-500" },
   { name: "LinkedIn", url: "https://tinyurl.com/dxzuh22r", icon: FaLinkedin, color: "hover:text-blue-600" },
-  { name: "Telegram", url: "https://t.me/Tonny746", icon: FaTelegram, color: "hover:text-blue-500" },
+  { name: "Telegram", url: "https://t.me/", icon: FaTelegram, color: "hover:text-blue-500" },
 ];
 
 
@@ -271,7 +271,7 @@ const Contact = () => {
               <CardContent className="p-6">
                 <h4 className="font-semibold mb-2 text-secondary">Current Availability</h4>
                 <p className="text-sm text-muted-foreground">
-                  I'm currently accepting new projects with start dates in February 2024. 
+                  I'm currently accepting new projects with start dates in August 2025. 
                   Book your spot early to secure your preferred timeline.
                 </p>
               </CardContent>
